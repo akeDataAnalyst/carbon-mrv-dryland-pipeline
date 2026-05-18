@@ -1,8 +1,7 @@
 # Dryland Carbon MRV Pipeline & Biomass Accounting Engine
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://carbon-mrv-dryland-pipeline-ezeohkspcdrkeugzfhpbh9.streamlit.app/)
-
-
 A professional MRV tool developed for high-integrity community carbon projects under Verra VM0047 ARR methodology
+
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://carbon-mrv-dryland-pipeline-ezeohkspcdrkeugzfhpbh9.streamlit.app/)
 
 ### Project Overview
 This project demonstrates a complete, production-ready Carbon Measurement, Reporting, and Verification (MRV) pipeline tailored for dryland restoration projects in Ethiopia. 
