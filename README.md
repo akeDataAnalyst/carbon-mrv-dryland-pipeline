@@ -42,3 +42,7 @@ An end-to-end automated pipeline that:
 - **OpenPyXL** – Excel reporting
 - **python-dotenv** – Configuration management
 - **Pathlib** – Clean file handling
+
+---
+## Developed by
+**Aklilu Abera** | **E2E Data Analyst**
