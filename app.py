@@ -4,8 +4,7 @@ import plotly.express as px
 from pathlib import Path
 
 st.set_page_config(page_title="Carbon MRV Dashboard", layout="wide")
-st.title("🌳 Dryland Carbon MRV Dashboard")
-st.subheader("Verra VM0047 ARR | Tree Aid Portfolio Project")
+st.title("Dryland Carbon MRV Dashboard")
 
 # Load data
 @st.cache_data
